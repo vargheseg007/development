@@ -1,6 +1,5 @@
 package com.vrg.design.creational;
-
-class Vechile {
+class Vechile{
 	private String engine;
 	private int wheel;
 	private int airbags;
@@ -45,9 +44,6 @@ class Vechile {
 
 	}//static class VechileBuilder
 }//class Vechile
-
-
-
 public class BUilderPatternExample {
 
 	public static void main(String[] args) {
